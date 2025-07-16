@@ -4,7 +4,11 @@ body {
   margin: 0;
   padding: 0;
 }
+<<<<<<< HEAD
 /* Main container styles */
+=======
+
+>>>>>>> 880ca788ea77f98e90a0b7873f4036558710597c
 .container {
   max-width: 600px;
   margin: 40px auto;
@@ -18,7 +22,11 @@ h1 {
   text-align: center;
   color: #ff6347;
 }
+<<<<<<< HEAD
 /* Form styles */
+=======
+
+>>>>>>> 880ca788ea77f98e90a0b7873f4036558710597c
 form {
   display: flex;
   flex-direction: column;
@@ -28,7 +36,11 @@ form {
 label, select, fieldset {
   font-size: 1rem;
 }
+<<<<<<< HEAD
 /* Style the order button */
+=======
+
+>>>>>>> 880ca788ea77f98e90a0b7873f4036558710597c
 button {
   padding: 10px;
   background-color: #ff6347;
@@ -42,7 +54,11 @@ button {
 button:hover {
   background-color: #e5533d;
 }
+<<<<<<< HEAD
 /* output display card */
+=======
+
+>>>>>>> 880ca788ea77f98e90a0b7873f4036558710597c
 .output-card {
   margin-top: 20px;
   padding: 20px;
